@@ -1,1 +1,2 @@
 # keyboard_simulater
+pysimpleguiを使って見たいのでキーボードシミュレータを作ってみる
